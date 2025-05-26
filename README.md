@@ -1,8 +1,8 @@
-# Hệ Thống Quản Lý Kho
+# FiFai_QLKH
 
-## Mô tả dự án
-Dự án là hệ thống quản lý kho hàng được xây dựng bằng Node.js, Express, MongoDB và EJS. Ứng dụng hỗ trợ quản lý sản phẩm, kho hàng, người dùng, vai trò và phân quyền chi tiết.
+This is the FiFai_QLKH project. HEHEHEHHeHE
 
+* This commit is to test CI/CD pipeline on GitHub Actions.
 ## Công nghệ sử dụng
 - Node.js
 - Express
